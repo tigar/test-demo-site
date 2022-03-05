@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About
+title: What I'm Reading
 templateClass: tmpl-post
 eleventyNavigation:
-  key: Books
-  order: 4
+  key: What I'm Reading
+  order: 3
 ---
 
 Some of my favorite books are here: INSERT_LINK

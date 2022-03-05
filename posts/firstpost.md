@@ -1,6 +1,6 @@
 ---
-title: New Website.
-description: This is a post on My Blog about agile frameworks.
+title: New website
+description: First post.
 date: 2022-03-04
 tags:
   - first post
