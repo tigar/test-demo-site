@@ -7,8 +7,9 @@ eleventyNavigation:
   order: 3
 ---
 
-Some of my favorite books are here: INSERT_LINK
+## Currently Reading: 
+**Dead Astronauts** by Jeff Vandermeer
 
-Reading List
-
--
+## Reading List
+- **All My Puny Sorrows** by Miriam Towers
+- **Desert Oracle: Volume 1: Strange True Tales from the American Southwest** by Ken Layne
